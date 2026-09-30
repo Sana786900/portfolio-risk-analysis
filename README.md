@@ -68,9 +68,3 @@ The portfolio itself is a case study, not a live account.
 <img src="https://img.shields.io/badge/-C0704A?style=flat-square" width="100%" height="3">
 
 <div align="center">
-
-Built by [Juan Felipe Betancourt](https://github.com/jfelipeb1)
-
-<sub>Part of a portfolio of commercial and analytical work. See the <a href="https://github.com/jfelipeb1">profile</a> for the rest.</sub>
-
-</div>
